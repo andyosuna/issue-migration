@@ -39,6 +39,6 @@ personal username, but the appropriate API token for the repository.
 
 ### Important stuff
 
-This script is licensed under [GPL](./LICENSE.txt) and it belongs to [vbabiy](https://github.com/vbabiy/).
+This script is licensed under [GPL](./LICENSE) and it belongs to [vbabiy](https://github.com/vbabiy/).
 I have no intention of contributing to the original, so any questions head over
 to [vbabiy/bitbucket_issue_migration](https://github.com/vbabiy/bitbucket_issue_migration).
